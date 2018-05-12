@@ -1,0 +1,25 @@
+_repo: Commander-Lawless-V.C._40511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bennett, Rolf
+    gutenberg_agent_id: '40668'
+    url: http://www.gutenberg.org/2009/agents/40668
+description: ''
+gutenberg_issued: '2012-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: "Commander Lawless V.C.\r\nBeing the Further Adventures of Frank H. Lawless,\
+  \ Until Recently a Lieutenant in His Majesty's Navy"
+url: http://www.gutenberg.org/ebooks/40511
